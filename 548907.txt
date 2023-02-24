@@ -1,0 +1,18 @@
+Yes, there are several npm packages available that provide similar functionality to the SIPml5 library for audio/video/screen share conferencing calls. Here are a few options you may want to consider:
+
+1.Jssip: Jssip is a JavaScript SIP library that provides a high-level API for handling SIP signaling and media sessions. It supports audio and video calls, as well as screen sharing, and can be used with WebRTC to enable real-time communication between browsers.
+
+2.SimpleWebRTC: SimpleWebRTC is a JavaScript library that provides a high-level API for building WebRTC-based applications. It supports audio and video calls, as well as screen sharing, and provides a simple way to handle signaling and media sessions.
+
+3.PeerJS: PeerJS is a JavaScript library that provides a simple API for building WebRTC-based applications. It supports audio and video calls, as well as screen sharing, and provides a peer-to-peer connection model that can be used to enable real-time communication between browsers.
+
+4.Twilio Video: Twilio Video is a cloud-based video communication platform that provides a WebRTC-based API for building real-time video applications. It supports audio and video calls, as well as screen sharing, and provides a reliable and scalable platform for handling signaling and media sessions.
+
+
+**
+These are just a few examples of the many npm packages available for building audio/video/screen share conferencing call applications. You may want to explore each of these options and evaluate which one best meets your specific needs and requirements.
+
+***
+any third party package comes with a risk of a security assossiated to it.
+kindly check if the package is having good amount of weekly downloads and is regulary updated.
+avoid installing packages which is are not updated in more than a year.
